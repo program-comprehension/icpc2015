@@ -1,0 +1,30 @@
+
+<p style="padding-bottom: 0pt; padding-top: 5%; padding-bottom:2%" class="paragraph_style">Steering Commitee members are elected by conference partecipants each year. Members serve for three-year terms and may not serve consecutively more than two terms.</p>
+          		<p style="padding-top: 0pt; " class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://vefur.simula.no/~leonm/" href="http://leonmoonen.com" onkeypress="window.open(this.href); return false;">Leon Moonen</a><br /></span></p>
+            	<p class="paragraph_style">Simula Research Laboratory, Norway<br /></p>
+            	<p class="paragraph_style">Chair, 2nd term ends 2015</span><br /></p>
+            	<p class="paragraph_style"><br /></p>
+            	<p class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://www.sosy-lab.org/~dbeyer/" href="http://www.sosy-lab.org/~dbeyer/" onkeypress="window.open(this.href); return false;">Dirk Beyer</a> <br /></p>
+                <p class="paragraph_style">University of Passau, Germany                <br /></p>
+                <p class="paragraph_style"><span class="style_2">1st term ends 2015<br /></p>
+                <p class="paragraph_style"><br /></p>
+                <p class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://serl.cs.wichita.edu/kagdi/" href="http://serl.cs.wichita.edu/kagdi/" onkeypress="window.open(this.href); return false;">Huzefa Kagdi</a> <br /></p>
+                <p class="paragraph_style">Wichita State University, USA<br /></p>
+                <p class="paragraph_style">1st term ends 2016<br /></p>
+                <p class="paragraph_style"><br /></p>
+                <p class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://www.cs.wm.edu/~denys/" href="http://www.cs.wm.edu/~denys/" onkeypress="window.open(this.href); return false;">Denys Poshyvanyk</a> <br /></p>
+                <p class="paragraph_style">The College of William and Mary, USA<br /></p>
+                <p class="paragraph_style">2nd term ends 2016<br /></p>
+                <p class="paragraph_style"><br /></p>
+                <p class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://www.infosun.fim.uni-passau.de/spl/people-jsiegmund.php" href="http://www.infosun.fim.uni-passau.de/spl/people-jsiegmund.php" onkeypress="window.open(this.href); return false;">Janet Siegmund</a> <br /></p>
+                <p class="paragraph_style"> University of Passau, Germany<br /></p>
+                <p class="paragraph_style">1st term ends 2017<br /></p>
+                <p class="paragraph_style"><br /></p>
+                <p class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://research.microsoft.com/~abegel" href="http://research.microsoft.com/~abegel" onkeypress="window.open(this.href); return false;">Andrew Begel</a><br /></p>
+                <p class="paragraph_style">Microsoft Research, USA<br /></p>
+                <p class="paragraph_style">2nd term ends 2017<br /></p>
+                <p class="paragraph_style"><br /></p>
+                <p class="paragraph_style"><a onclick="window.open(this.href); return false;" title="http://www.cs.wayne.edu/~vip/VaclavRajlich.html" href="http://www.cs.wayne.edu/~vip/VaclavRajlich.html" onkeypress="window.open(this.href); return false;">Václav Rajlich</a> <br /></p>
+                <p class="paragraph_style">Wayne State University, USA<br /></p>
+                <p style="padding-bottom: 0pt; " class="paragraph_style">Life Member</p>
+          </div>

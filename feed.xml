@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:135A81A6-4182-41C7-80EB-C9BC343EAF33</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-09-18T16:20:27+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:C34EE5C9-937F-4B4B-88AA-E43E32A3C59B</id>
+  <title>Call &amp; Dates</title>
+  <title xmlns="urn:iweb:">Call &amp; Dates</title>
+  <in-navbar xmlns="urn:iweb:">C34EE5C9-937F-4B4B-88AA-E43E32A3C59B</in-navbar>
+  <link rel="alternate" href="Call_%26_Dates.html"/>
+  <updated>2014-09-18T16:20:27.001+02:00</updated>
+  <content>Call &amp; Dates</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D1C9D79A-ABD2-4148-9D67-0487BDF1453E</id>
+  <title>Organization</title>
+  <title xmlns="urn:iweb:">Organization</title>
+  <in-navbar xmlns="urn:iweb:">D1C9D79A-ABD2-4148-9D67-0487BDF1453E</in-navbar>
+  <link rel="alternate" href="Organization.html"/>
+  <updated>2014-09-18T16:20:27.002+02:00</updated>
+  <content>Organization</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6BCD5D45-FFC5-4263-BB41-9774545D42F9</id>
+  <title>Supporters</title>
+  <title xmlns="urn:iweb:">Supporters</title>
+  <in-navbar xmlns="urn:iweb:">6BCD5D45-FFC5-4263-BB41-9774545D42F9</in-navbar>
+  <link rel="alternate" href="Supporters.html"/>
+  <updated>2014-09-18T16:20:27.003+02:00</updated>
+  <content>Supporters</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6A2A72D2-13D0-4BEF-827A-A06522435E7B</id>
+  <title>Florence</title>
+  <title xmlns="urn:iweb:">Florence</title>
+  <in-navbar xmlns="urn:iweb:">6A2A72D2-13D0-4BEF-827A-A06522435E7B</in-navbar>
+  <link rel="alternate" href="Florence.html"/>
+  <updated>2014-09-18T16:20:27.004+02:00</updated>
+  <content>Florence</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9D48C9E5-92DF-4260-9D09-698CB9414747</id>
+  <title>Logo</title>
+  <title xmlns="urn:iweb:">Logo</title>
+  <in-navbar xmlns="urn:iweb:">9D48C9E5-92DF-4260-9D09-698CB9414747</in-navbar>
+  <link rel="alternate" href="Logo.html"/>
+  <updated>2014-09-18T16:20:27.005+02:00</updated>
+  <content>Logo</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4A31C0FB-C073-4CA6-ABDB-9834E382E1B2</id>
+  <title>CFP Industry Track</title>
+  <title xmlns="urn:iweb:">CFP Industry Track</title>
+  <in-navbar xmlns="urn:iweb:">4A31C0FB-C073-4CA6-ABDB-9834E382E1B2</in-navbar>
+  <link rel="alternate" href="CFP_Industry_Track.html"/>
+  <updated>2014-09-18T16:20:27.006+02:00</updated>
+  <content>CFP Industry Track</content>
+ </entry>
+</feed>
